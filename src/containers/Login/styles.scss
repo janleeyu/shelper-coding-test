@@ -1,0 +1,19 @@
+.login {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+    button {
+        background-color: #1AB954;
+        width: 290px;
+        height: 35px;
+        border-radius: 17.5px;
+        padding-left: 10px;
+        color: rgb(136, 137, 140);
+        color: white;
+        font-size: 12px;
+        outline: none;
+        border: none;
+        margin-top: 15px;
+    }
+}
